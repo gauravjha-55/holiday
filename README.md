@@ -1,2 +1,0 @@
-# holiday
-the holiday homework
